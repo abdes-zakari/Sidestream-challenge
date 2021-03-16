@@ -1,3 +1,7 @@
+## Demo
+
+![alt text](https://github.com/abdes-zakari/Sidestream-challenge/blob/main/screen-frontend.gif)
+
 # Coding challenge
 
 Welcome to this fullstack coding challenge. This Readme will guide you through it. It will first present a high level full picture of the project and then scope your task.
@@ -76,7 +80,7 @@ Note: These are in no particular order, start and do whatever you like. If you h
 
 If you have an additional idea, that would bring our operators forward and is not on this stretch goal list, please feel free to implement that as well, or even just write about it in this or some other file. We also love people that think about their tasks and are able to think like the people whose problems they solve.
 
-## Screenshots
+## ![alt text](https://github.com/abdes-zakari/Sidestream-challenge/blob/main/screen-frontend.gif)
 
 Some screenshots to get you started/so that you know, that you're on the right path.
 
